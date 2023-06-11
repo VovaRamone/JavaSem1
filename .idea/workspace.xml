@@ -4,8 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faddd2ee-65af-417e-b91c-9b08e13d8169" name="Changes" comment="first seminar all tasks plus DZ">
+    <list default="true" id="faddd2ee-65af-417e-b91c-9b08e13d8169" name="Changes" comment="first seminar all tasks and DZ">
+      <change afterPath="$PROJECT_DIR$/lib/json-simple-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FileOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PalindromeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem2DZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringCompressor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringToFileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SymbolString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/students.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,51 +46,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/GIT",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/GIT&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GIT\JAVASem\JavaSem1" />
       <recent name="C:\GIT\JAVASem\JavaSem1\src\main\java\org\example" />
       <recent name="C:\GIT\JAVASem\JavaSem1\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EquationSolver">
-    <configuration name="EquationSolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EquationSolver" />
+  <component name="RunManager" selected="Application.Sem2DZ">
+    <configuration name="QueryBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QueryBuilder" />
       <module name="JavaSem1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimeNumbers" />
+    <configuration name="Sem2DZ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sem2DZ" />
       <module name="JavaSem1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SimpleCalculator" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2" />
       <module name="JavaSem1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumOfNumbers" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task3" />
       <module name="JavaSem1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriteToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WriteToFile" />
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task4" />
       <module name="JavaSem1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EquationSolver" />
-        <item itemvalue="Application.SimpleCalculator" />
-        <item itemvalue="Application.PrimeNumbers" />
-        <item itemvalue="Application.SumOfNumbers" />
-        <item itemvalue="Application.WriteToFile" />
+        <item itemvalue="Application.Sem2DZ" />
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.QueryBuilder" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686236820992</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first seminar all tasks plus DZ">
+      <created>1686238455277</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686238455277</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +156,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first sem" />
-    <option name="LAST_COMMIT_MESSAGE" value="first sem" />
+    <MESSAGE value="first seminar all tasks plus DZ" />
+    <option name="LAST_COMMIT_MESSAGE" value="first seminar all tasks plus DZ" />
   </component>
 </project>

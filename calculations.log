@@ -1,0 +1,40 @@
+июн 11, 2023 12:26:50 PM Task4 main
+INFO: Enter the first number: 
+июн 11, 2023 12:26:56 PM Task4 main
+INFO: Enter an operator (+, -, *, /): 
+июн 11, 2023 12:26:59 PM Task4 main
+INFO: Enter the second number: 
+июн 11, 2023 12:27:02 PM Task4 main
+INFO: Result: 16.0
+июн 11, 2023 12:29:27 PM Task4 main
+INFO: Enter the first number: 
+июн 11, 2023 12:33:24 PM Task4 main
+INFO: Enter the first number: 
+июн 11, 2023 12:33:27 PM Task4 main
+INFO: Enter an operator (+, -, *, /): 
+июн 11, 2023 12:33:31 PM Task4 main
+INFO: Enter the second number: 
+июн 11, 2023 12:33:34 PM Task4 main
+INFO: Result: 16.0
+июн 11, 2023 12:33:34 PM Task4 logCalculation
+INFO: Calculation: 4.0 * 4.0 = 16.0
+июн 11, 2023 12:33:48 PM Task4 main
+INFO: Enter the first number: 
+июн 11, 2023 12:33:53 PM Task4 main
+INFO: Enter an operator (+, -, *, /): 
+июн 11, 2023 12:33:57 PM Task4 main
+INFO: Enter the second number: 
+июн 11, 2023 12:33:59 PM Task4 main
+INFO: Result: 2.6
+июн 11, 2023 12:33:59 PM Task4 logCalculation
+INFO: Calculation: 13.0 / 5.0 = 2.6
+июн 11, 2023 12:36:13 PM Task4 LogCalc
+INFO: Enter the first number: 
+июн 11, 2023 12:36:18 PM Task4 LogCalc
+INFO: Enter an operator (+, -, *, /): 
+июн 11, 2023 12:36:23 PM Task4 LogCalc
+INFO: Enter the second number: 
+июн 11, 2023 12:36:26 PM Task4 LogCalc
+INFO: Result: -20.0
+июн 11, 2023 12:36:26 PM Task4 logCalculation
+INFO: Calculation: 5.0 - 25.0 = -20.0

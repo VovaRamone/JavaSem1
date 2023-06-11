@@ -1,0 +1,10 @@
+.git
+.gitignore
+.idea
+filelist.txt
+pom.xml
+README.md
+src
+target
+Task9.txt
+test.txt
