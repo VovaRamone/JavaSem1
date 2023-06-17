@@ -1,4 +1,5 @@
 package Sem2DZ;
+import Sem1.SimpleCalculator;
 
 import java.io.IOException;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package Sem1;
 
 public class EquationSolver {
     public static void main(String[] args) {

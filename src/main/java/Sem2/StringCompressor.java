@@ -1,3 +1,5 @@
+package Sem2;
+
 public class StringCompressor {
     public static void main(String[] args) {
         String input = "aaaaaaaaaaaaaaaaaabbbcdd";

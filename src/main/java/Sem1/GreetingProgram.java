@@ -1,3 +1,5 @@
+package Sem1;
+
 import java.time.LocalTime;
 import java.util.Scanner;
 

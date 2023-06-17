@@ -1,3 +1,5 @@
+package Sem1;
+
 public class LongestCommonPrefix {
     public static void main(String[] args) {
         String[] words = {"robot", "robust", "robbery",};

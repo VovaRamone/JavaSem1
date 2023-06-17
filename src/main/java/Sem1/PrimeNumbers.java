@@ -1,3 +1,5 @@
+package Sem1;
+
 public class PrimeNumbers {
     public static void main(String[] args) {
         System.out.println("Prime numbers from 1 to 1000:");

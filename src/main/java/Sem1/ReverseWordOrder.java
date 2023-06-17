@@ -1,3 +1,5 @@
+package Sem1;
+
 public class ReverseWordOrder {
     public static void main(String[] args) {
         String phrase = "Welcome to the Java course";

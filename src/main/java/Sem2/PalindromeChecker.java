@@ -1,3 +1,5 @@
+package Sem2;
+
 public class PalindromeChecker {
     public static boolean isPalindrome(String input) {
         // Remove all non-alphanumeric characters and convert to lowercase

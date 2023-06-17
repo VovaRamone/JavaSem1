@@ -38,3 +38,13 @@ INFO: Enter the second number:
 INFO: Result: -20.0
 июн 11, 2023 12:36:26 PM Task4 logCalculation
 INFO: Calculation: 5.0 - 25.0 = -20.0
+июн 17, 2023 9:54:28 AM Sem2DZ.Task4 LogCalc
+INFO: Enter the first number: 
+июн 17, 2023 9:54:32 AM Sem2DZ.Task4 LogCalc
+INFO: Enter an operator (+, -, *, /): 
+июн 17, 2023 9:54:35 AM Sem2DZ.Task4 LogCalc
+INFO: Enter the second number: 
+июн 17, 2023 9:54:37 AM Sem2DZ.Task4 LogCalc
+INFO: Result: 1.0
+июн 17, 2023 9:54:37 AM Sem2DZ.Task4 logCalculation
+INFO: Calculation: 3.0 / 3.0 = 1.0

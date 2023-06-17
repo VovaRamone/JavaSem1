@@ -1,3 +1,5 @@
+package Sem1;
+
 import java.io.FileWriter;
 import java.io.IOException;
 

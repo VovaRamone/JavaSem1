@@ -1,3 +1,5 @@
+package Sem2;
+
 public class SymbolString {
     public static void main(String[] args) {
         int N = 15;
