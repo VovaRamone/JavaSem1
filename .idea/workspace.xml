@@ -4,26 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faddd2ee-65af-417e-b91c-9b08e13d8169" name="Changes" comment="rennovation">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sem1/ArrayBalanceIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem1/ArrayBalanceIndex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sem1/ConsecutiveOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem1/ConsecutiveOnes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sem1/EquationSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem1/EquationSolver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sem1/GreetingProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem1/GreetingProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sem1/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem1/LongestCommonPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sem1/MoveElementsToEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem1/MoveElementsToEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sem1/PowerCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem1/PowerCalculation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sem1/PrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem1/PrimeNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sem1/ReverseWordOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem1/ReverseWordOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sem1/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem1/SimpleCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sem1/SumOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem1/SumOfNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sem1/WriteToFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem1/WriteToFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sem2/FileOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem2/FileOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sem2/PalindromeChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem2/PalindromeChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sem2/StringCompressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem2/StringCompressor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sem2/StringToFileWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem2/StringToFileWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sem2/SymbolString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem2/SymbolString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sem2DZ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem2DZ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sem2DZ/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem2DZ/Task4.java" afterDir="false" />
+    <list default="true" id="faddd2ee-65af-417e-b91c-9b08e13d8169" name="Changes" comment="rennovation2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem4/LinkListSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem4DZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem4DZ/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem4DZ/QueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem4DZ/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEMINAR_4.md" beforeDir="false" afterPath="$PROJECT_DIR$/SEMINAR_4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculations.log" beforeDir="false" afterPath="$PROJECT_DIR$/calculations.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Sem4/TextMemory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Sem4App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem4App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +69,7 @@
       <recent name="C:\GIT\JAVASem\JavaSem1\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Sem2DZ">
+  <component name="RunManager" selected="Application.Sem4DZ">
     <configuration name="Sem2DZ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sem2DZ" />
       <module name="JavaSem1" />
@@ -85,15 +77,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sem3App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sem3App" />
+    <configuration name="Sem4App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sem4App" />
       <module name="JavaSem1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sem4App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sem4App" />
+    <configuration name="Sem4DZ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sem4DZ" />
       <module name="JavaSem1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -121,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Sem2DZ" />
+        <item itemvalue="Application.Sem4DZ" />
         <item itemvalue="Application.Sem4App" />
+        <item itemvalue="Application.Sem2DZ" />
         <item itemvalue="Application.TextMemory" />
         <item itemvalue="Application.Seminar3DZ" />
-        <item itemvalue="Application.Sem3App" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686980642921</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="rennovation2">
+      <created>1686981310991</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1686981310991</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -215,6 +214,17 @@
     <MESSAGE value="second2.md" />
     <MESSAGE value="Third seminar. All tasks including DZ" />
     <MESSAGE value="rennovation" />
-    <option name="LAST_COMMIT_MESSAGE" value="rennovation" />
+    <MESSAGE value="rennovation2" />
+    <option name="LAST_COMMIT_MESSAGE" value="rennovation2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
