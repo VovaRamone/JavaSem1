@@ -4,24 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faddd2ee-65af-417e-b91c-9b08e13d8169" name="Changes" comment="Seminar 4 plus DZ">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEMINAR_5.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Phonebook/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Phonebook/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Phonebook/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Phonebook/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Phonebook/Text.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Phonebook/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sem5/BracketPlacement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sem5/EmployeeData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sem5/RomanConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sem5/StringSorter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sem5App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sem5DZ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sem5DZ/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sem5DZ/KnightsTour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sem5DZ/QueensSolver.java" afterDir="false" />
+    <list default="true" id="faddd2ee-65af-417e-b91c-9b08e13d8169" name="Changes" comment="Seminar 5 plus DZ">
+      <change afterPath="$PROJECT_DIR$/SEMINAR_6.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Laptop/HardwareStoreApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Laptop/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem6/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem6/SetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem6/UniquePercentageCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem6App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -59,18 +49,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/GIT/JAVASem/JavaSem1",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/GIT/JAVASem/JavaSem1&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\GIT\JAVASem\JavaSem1" />
@@ -78,7 +68,20 @@
       <recent name="C:\GIT\JAVASem\JavaSem1\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Sem5DZ">
+  <component name="RunManager" selected="Application.HardwareStoreApp">
+    <configuration name="HardwareStoreApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Laptop.HardwareStoreApp" />
+      <module name="JavaSem1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Laptop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Phonebook.Main" />
       <module name="JavaSem1" />
@@ -88,20 +91,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sem4App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sem4App" />
-      <module name="JavaSem1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sem4DZ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sem4DZ" />
-      <module name="JavaSem1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -120,13 +109,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sem6App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sem6App" />
+      <module name="JavaSem1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Sem5DZ" />
+        <item itemvalue="Application.HardwareStoreApp" />
+        <item itemvalue="Application.Sem6App" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Sem5DZ" />
         <item itemvalue="Application.Sem5App" />
-        <item itemvalue="Application.Sem4DZ" />
-        <item itemvalue="Application.Sem4App" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687178558209</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Seminar 5 plus DZ">
+      <created>1687421192484</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1687421192484</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,7 +235,8 @@
     <MESSAGE value="rennovation" />
     <MESSAGE value="rennovation2" />
     <MESSAGE value="Seminar 4 plus DZ" />
-    <option name="LAST_COMMIT_MESSAGE" value="Seminar 4 plus DZ" />
+    <MESSAGE value="Seminar 5 plus DZ" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seminar 5 plus DZ" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
